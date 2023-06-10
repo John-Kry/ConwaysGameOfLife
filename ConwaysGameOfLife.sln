@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConwaysGameOfLife", "ConwaysGameOfLife\ConwaysGameOfLife.csproj", "{D740F8A6-5206-4695-9327-DA747424AC16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{9E03EF91-B7E5-4417-88D5-939E863C875F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D740F8A6-5206-4695-9327-DA747424AC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D740F8A6-5206-4695-9327-DA747424AC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D740F8A6-5206-4695-9327-DA747424AC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D740F8A6-5206-4695-9327-DA747424AC16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E03EF91-B7E5-4417-88D5-939E863C875F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E03EF91-B7E5-4417-88D5-939E863C875F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E03EF91-B7E5-4417-88D5-939E863C875F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E03EF91-B7E5-4417-88D5-939E863C875F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
